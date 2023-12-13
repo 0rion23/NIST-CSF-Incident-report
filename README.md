@@ -1,2 +1,3 @@
 # NIST-CSF-Incident-report
 Incident report based on NIST CSF
+The incident is about a DDoS in a fictional company, ICMP flood atack is the type of DDoS use to disrupt the organization.
